@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @J0rd145
-- 👀 I’m interested in Coding 💻 & Good Food frying 🍳 
+- 👀 I’m interested in Coding 💻 & Good Food 🍳 
 - 🌱 I’m currently learning NextJS & Gatsby 👻
 - 💞️ I’m looking to collaborate on literally anything 👀
 
