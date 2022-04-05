@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @J0rd145
-- 👀 I’m interested in Coding 💻 & Good Food 🍳 
+- 👀 I’m interested in making highly performant and useful web apps 🚀
 
 <!---
 J0rd145/J0rd145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
