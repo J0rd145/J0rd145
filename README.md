@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hi, I'm Jord</h1>
-<h3 align="center">A guitar playing full stack developer from the UK</h3>
 
 <p align="center">
 <a href="https://twitter.com/jordd_____">
