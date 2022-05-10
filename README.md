@@ -17,7 +17,7 @@
 </p>
 
 
-- 👨‍💻 All of my projects are available at [jordd.dev](jordd.dev)
+- 👨‍💻 All of my projects are available at [https://www.jordd.dev](jordd.dev)
 
 - 💬 Ask me about **React, Typescript, C# or Star Wars :^)**
 
